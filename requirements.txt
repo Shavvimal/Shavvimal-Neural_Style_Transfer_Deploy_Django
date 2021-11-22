@@ -16,7 +16,9 @@ click==8.0.3
 coverage @ file:///C:/ci/coverage_1614615074147/work
 cryptography @ file:///C:/ci/cryptography_1633520552480/work
 Cython @ file:///C:/ci/cython_1636036427608/work
+dj-database-url==0.5.0
 Django==3.2.9
+django-heroku==0.3.1
 djangorestframework==3.12.4
 gast @ file:///Users/ktietz/demo/mc3/conda-bld/gast_1628588903283/work
 google-auth @ file:///tmp/build/80754af9/google-auth_1626320605116/work
@@ -41,6 +43,7 @@ opt-einsum @ file:///tmp/build/80754af9/opt_einsum_1621500238896/work
 pickle-mixin==1.0.2
 Pillow==8.4.0
 protobuf==3.17.2
+psycopg2==2.9.2
 pyasn1 @ file:///Users/ktietz/demo/mc3/conda-bld/pyasn1_1629708007385/work
 pyasn1-modules==0.2.8
 pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
@@ -65,6 +68,7 @@ threadpoolctl==3.0.0
 typing-extensions @ file:///tmp/build/80754af9/typing_extensions_1631814937681/work
 urllib3==1.26.7
 Werkzeug @ file:///tmp/build/80754af9/werkzeug_1635505089296/work
+whitenoise==5.3.0
 win-inet-pton @ file:///C:/ci/win_inet_pton_1605306167264/work
 wincertstore==0.2
 wrapt==1.12.1
