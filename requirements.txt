@@ -2,7 +2,6 @@ asgiref==3.4.1
 astor==0.8.1
 astunparse==1.6.3
 async-timeout==3.0.1
-attrs @ file:///tmp/build/80754af9/attrs_1620827162558/work
 blinker==1.4
 brotlipy==0.7.0
 cachetools @ file:///tmp/build/80754af9/cachetools_1619597386817/work
