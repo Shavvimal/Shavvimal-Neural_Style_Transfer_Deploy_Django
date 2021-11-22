@@ -5,7 +5,6 @@ async-timeout==3.0.1
 blinker==1.4
 brotlipy==0.7.0
 certifi==2021.10.8
-cffi @ file:///C:/ci/cffi_1636542074879/work
 chardet @ file:///C:/ci/chardet_1607690654534/work
 charset-normalizer @ file:///tmp/build/80754af9/charset-normalizer_1630003229654/work
 click==8.0.3
