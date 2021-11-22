@@ -4,3 +4,5 @@ install requirements using something like
 
 `git add . && git commit -m "edited requiremnts txt" && git push && git push heroku main`
 
+https://realpython.com/django-hosting-on-heroku/
+
