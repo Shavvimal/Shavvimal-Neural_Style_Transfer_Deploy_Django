@@ -1,4 +1,3 @@
-absl-py @ file:///C:/ci/absl-py_1623867339542/work
 aiohttp @ file:///C:/ci/aiohttp_1632750093640/work
 asgiref==3.4.1
 astor==0.8.1
