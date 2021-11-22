@@ -19,7 +19,7 @@ class call_model(APIView):
     def get(self,request):
         if request.method == 'GET':
             
-            # sentence is the query we want to get the prediction for
+            
             content =  request.GET.get('content')
             style =  request.GET.get('style')
 
