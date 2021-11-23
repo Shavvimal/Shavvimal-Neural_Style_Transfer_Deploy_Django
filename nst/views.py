@@ -10,7 +10,6 @@ from rest_framework import status
 from .apps import WebappConfig
 
 import tensorflow as tf
-import base64
 
 
 

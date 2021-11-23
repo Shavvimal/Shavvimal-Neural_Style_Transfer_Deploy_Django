@@ -1,9 +1,6 @@
 from django.apps import AppConfig
 
 from pathlib import Path
-import html
-import pathlib
-import os
 
 import tensorflow as tf
 
